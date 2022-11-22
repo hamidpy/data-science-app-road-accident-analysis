@@ -4,6 +4,7 @@ import numpy as np
 import pydeck as pdk
 import plotly.express as px
 
+
 DATE_TIME = "date/time"
 DATA_URL = (
     r"your_path\Motor_Vehicle_Collisions_-_Crashes.csv")
